@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+.resume .tittle{
+    margin-bottom: 20px;
+}
+.resume .resume_item{
+    padding:  25px 0;
+    border-bottom: 2px solid ;
+}
+.tittle p{
+    color:blue
+}
+.tittle{
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
+.main{
+    margin-top:10px
+}
+.main .resume-left{
+    float: left;
+    margin-right: 20px;
+}
+
+.header .email-phone .phone-p{
+    margin-left: 20px;
+}
+.header .email-phone p{
+    display: inline-block;
+    margin-top: 10px;
+}
+.header .job h3{
+    font-weight: 300;
+}
+li{
+    list-style: none;
+}
+.resume_item ul li .titel{
+    margin-top: 20px;
+    color: black;
+}
+.resume_item ul li .info .final-info{
+    margin-top: 10px;
+}
+.resume_item .tittle .bol{
+    margin-top: 10px;
+}
+.resume_item ul li .info{
+    margin-top: 15px;
+}
